@@ -1,0 +1,15 @@
+# Logs and environment
+*.log
+.env
+config/config.local.php
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS and cache
+.DS_Store
+vendor/
+composer.lock
